@@ -1,0 +1,5 @@
+HOST = "37.140.192.210"
+USER = "u1380978_user_db"
+PASSWORD = "kL5xM8uF6p"
+DB = "u1380978_database"
+API_KEY_GPT = "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"
